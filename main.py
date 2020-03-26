@@ -380,9 +380,7 @@ while flag:
          print("====請輸入1-4之間====")
          continue
 
-x = 1
-y = 2
-print(x+y)
+x=1
 # weight = 100
 # weight1 = 80
 # def add_weight(w1,w2=1):
