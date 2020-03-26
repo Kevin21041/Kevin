@@ -381,6 +381,7 @@ while flag:
          continue
 
 x=1
+print(x)
 # weight = 100
 # weight1 = 80
 # def add_weight(w1,w2=1):
